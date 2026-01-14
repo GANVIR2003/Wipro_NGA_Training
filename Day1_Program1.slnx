@@ -2,4 +2,5 @@
   <Project Path="Day1_Program1/Day1_Program1.csproj" />
   <Project Path="Day1_Program2/Day1_Program2.csproj" />
   <Project Path="Day1_Program3/Day1_Program3.csproj" />
+  <Project Path="Day1_Program4/Day1_Program4.csproj" />
 </Solution>
